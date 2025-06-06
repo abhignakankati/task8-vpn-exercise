@@ -45,9 +45,9 @@ Understand and experience how **VPNs** protect user privacy, encrypt internet tr
 
 | VPN Status | Screenshot |
 |------------|------------|
-| Original IP | ![Original IP](screenshots/original-ip.png) |
-| VPN Connected IP | ![VPN IP](screenshots/vpn-connected.png) |
-| ProtonVPN UI | ![VPN UI](screenshots/protonvpn-ui.png) |
+| Original IP | ![Original IP](screenshots/original-ip.png.png) |
+| VPN Connected IP | ![VPN IP](screenshots/vpn-connected.png.png) |
+| ProtonVPN UI | ![VPN UI](screenshots/protonvpn-ui.png.png) |
 
 ---
 
